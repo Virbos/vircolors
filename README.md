@@ -7,16 +7,20 @@ Color palettes. You can take it if you want to.
 This is the main color palette. The names are just my custom name.
 
 ## General colors:
-+ Black: #000000
-+ White: #ffffff
++ BG: #000000
++ FG: #00FF00
++ White: #FFFFFF
++ Grey: #999999
++ DamnGrey: #808080
++ DarkSky: #333333
+
 
 ## Green flavors:
++ Lightgiga: #B6FF0D
++ Chad: #59E80C
 + Green: #00FF00
 + Dank: #0CE84A
-+ Giga: #B6FF0D
-+ Chad: #59E80C
 + TooChad: #0DDF96
-+ Dark: #268026
 
 ## Blue flavors:
 + Blue: #0000FF
@@ -24,4 +28,13 @@ This is the main color palette. The names are just my custom name.
 + Solid: #0C46E8
 + Light: #0D8CFF
 
+## Yellow
++ Yellow: #FFFF00
++ Tux: #F0A500
++ Orange: #FFB20D
+
+## Red
++ Red: #FF1E19
++ Warning: #E82F0C
++ Revolution: #B30C09
 
