@@ -39,4 +39,6 @@ This is the main color palette. The names are just my custom name.
 + Revolution: #B30C09
 
 ## Purple flavors:
-+ Purple: #7F02E5
+
++ Purple: #9A0FF5
++ Pur: #D00EE8
