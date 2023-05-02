@@ -43,4 +43,6 @@ This is the main color palette. The names are just my custom name.
 + Purple: #9A0FF5
 + Pur: #D00EE8
 
-Currently there's no preview available. You can clone this locally and view it through any color viewer plugins you may like
+Currently there's no preview available. You can clone this locally and view it through any color viewer plugins you may like.
+
+Feel free to contribute. I'm (kinda) bad at designing :)))
