@@ -19,8 +19,9 @@ This is the main color palette. The names are just my custom name.
 + Dark: #268026
 
 ## Blue flavors:
-+ Blue: #2f81f7
-+ Dark: #2059aa
-+ Justin: #0095fe
-+ Lightblue: #89ccf0
-+ Close-to-green: #47bcc7
++ Blue: #0000FF
++ Purblue: #480CE8 
++ Solid: #0C46E8
++ Light: #0D8CFF
+
+
