@@ -28,13 +28,15 @@ This is the main color palette. The names are just my custom name.
 + Solid: #0C46E8
 + Light: #0D8CFF
 
-## Yellow
+## Yellow flavors:
 + Yellow: #FFFF00
 + Tux: #F0A500
 + Orange: #FFB20D
 
-## Red
+## Red flavors:
 + Red: #FF1E19
 + Warning: #E82F0C
 + Revolution: #B30C09
 
+## Purple flavors:
++ Purple: #7F02E5
