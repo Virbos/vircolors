@@ -1,0 +1,37 @@
+{
+    "general": {
+        "background": "#000000",
+        "foreground": "#00ff00",
+        "white": "#ffffff",
+        "grey": "#999999",
+        "damn_grey": "#808080",
+        "dark_sky": "#333333",
+        "warning": "#e82f0c"
+    },
+    "green": {
+        "light_giga": "#b6ff0d",
+        "chad": "#59e80c",
+        "green": "#00ff00",
+        "dank": "#0ce84a",
+        "too_chad": "#0ddf96"
+    },
+    "blue": {
+        "blue": "#0000ff",
+        "purblue": "#480ce8",
+        "solid": "#0c46e8",
+        "light": "#0d8cff"
+    },
+    "yellow": {
+        "yellow": "#ffff00",
+        "tux": "#f0a500",
+        "orange": "#ffb20d"
+    },
+    "red": {
+        "red": "#ff1e19",
+        "revolution": "#b30c09"
+    },
+    "purple": {
+        "purple": "#9a0ff5",
+        "pur": "#d00ee8"
+    }
+}
