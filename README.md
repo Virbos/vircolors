@@ -13,7 +13,7 @@ This is the main color palette. The names are just my custom name.
 + Grey: #999999
 + DamnGrey: #808080
 + DarkSky: #333333
-
++ Warning: #E82F0C
 
 ## Green flavors:
 + Lightgiga: #B6FF0D
@@ -35,7 +35,6 @@ This is the main color palette. The names are just my custom name.
 
 ## Red flavors:
 + Red: #FF1E19
-+ Warning: #E82F0C
 + Revolution: #B30C09
 
 ## Purple flavors:
