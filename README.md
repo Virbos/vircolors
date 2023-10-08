@@ -13,9 +13,11 @@ This is the main color palette. The names are just my custom name.
 + Grey: #999999
 + DamnGrey: #808080
 + DarkSky: #333333
++ Warning: #E82F0C
 
 ### Preview
 ![image](https://github.com/lasermtv07/vircolors/assets/118477750/e4d7e101-50fd-49f2-87bc-3917c0c47d23)
+
 
 ## Green flavors:
 + Lightgiga: #B6FF0D
@@ -46,7 +48,6 @@ This is the main color palette. The names are just my custom name.
 
 ## Red flavors:
 + Red: #FF1E19
-+ Warning: #E82F0C
 + Revolution: #B30C09
 
 ### Preview
