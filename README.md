@@ -61,6 +61,9 @@ This is the main color palette. The names are just my custom name.
 ### Preview
 ![image](https://github.com/lasermtv07/vircolors/assets/118477750/4deac490-8be2-426a-906a-8d48a2c9801b)
 
+## General Preview
+![image](preview.png)
+
 ---
 **Message from the creator of previews:**<br>
 Previews are made with HTML table, with the head cell having `colspan=6` and the bottom ones being just filled with six unbreakable spaces coz I make bad life decisions.<br>
