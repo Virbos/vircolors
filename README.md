@@ -64,10 +64,6 @@ This is the main color palette. The names are just my custom name.
 ## General Preview
 ![image](preview.png)
 
----
-**Message from the creator of previews:**<br>
 Previews are made with HTML table, with the head cell having `colspan=6` and the bottom ones being just filled with six unbreakable spaces coz I make bad life decisions.<br>
-**Message from the creator:**<br>
-~~Currently there's no preview available. You can clone this locally and view it through any color viewer plugins you may like.~~
 
 Feel free to contribute. I'm (kinda) bad at designing :)))
