@@ -1,10 +1,10 @@
 # Introduction
 
-Color palettes. You can take it if you want to.
+Here are the Color palettes. You can take them if you want to.
 
 # Main color palette
 
-This is the main color palette. The names are just my custom name.
+This is basically the main color palette. The names are just my custom name.
 
 ## General colors:
 + BG: #000000
@@ -64,6 +64,6 @@ This is the main color palette. The names are just my custom name.
 ## General Preview
 ![image](preview.png)
 
-Previews are made with HTML table, with the head cell having `colspan=6` and the bottom ones being just filled with six unbreakable spaces coz I make bad life decisions.<br>
+Previews are made with HTML table, with the head cell having `colspan=6` and the bottom ones being just filled with six unbreakable spaces coz i make bad decisions.<br>
 
-Feel free to contribute. I'm (kinda) bad at designing :)))
+Feel free to contribute. I don't know why I am not that good in designing :))
